@@ -1,0 +1,10 @@
+ appel
+ avocado
+ pisang
+ cherry
+ kiwi
+ mangga
+ jeruk
+ nanas
+ strawberry
+ Semangka
