@@ -1,0 +1,7 @@
+dataset : https://www.kaggle.com/datasets/karimabdulnabi/fruit-classification10-class/data
+
+referensi :
+ https://youtu.be/7wKTtv682-E?si=lLf8cBO8Qmg89kL7
+
+
+https://colab.research.google.com/drive/1XHNNYwDYYoaJaQVCy1uIeKqErXTYpwLu?usp=sharing
